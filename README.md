@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 🤝 I’m looking for help with **WCDR In Chayan Portal**
-
-- 💬 Ask me about **.Net Framework**
-
 - 📫 How to reach me **swati.chandravanshi01@gmail.com**
 
 - ⚡ Fun fact **I’m passionate about sports, especially outdoor games like basketball, football, cricket, and badminton. I’m also an NCC cadet and truly enjoy the discipline, values, and lifestyle that come with a soldier's life. This background helps me stay focused and motivated in all areas of life. I take pride in being disciplined and genuinely enjoy my current job.**
