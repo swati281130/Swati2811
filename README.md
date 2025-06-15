@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati281130" alt="swati281130" /></a> </p>
 
-- 🔭 I’m currently working on [MPPSC](https://mponline.gov.in/Portal/Examinations/MPPSC/Attestation/Home/Home.aspx)
+- 🔭 I’m currently working on [MPPSC Project](https://mponline.gov.in/Portal/Examinations/MPPSC/Attestation/Home/Home.aspx)
 
 - 🌱 I’m currently learning **React Js**
 
